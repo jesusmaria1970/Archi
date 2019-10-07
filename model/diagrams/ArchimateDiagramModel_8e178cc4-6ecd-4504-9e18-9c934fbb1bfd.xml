@@ -37,4 +37,16 @@
         xsi:type="archimate:TechnologyInterface"
         href="TechnologyInterface_ff54e571-2c37-4907-ad30-c060d25c66fb.xml#ff54e571-2c37-4907-ad30-c060d25c66fb"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="acd4b755-3425-4b1b-a712-1ac0d581dcfc">
+    <bounds
+        x="336"
+        y="192"
+        width="85"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_4aa891eb-beb3-4503-a752-e3acb3adfa72.xml#4aa891eb-beb3-4503-a752-e3acb3adfa72"/>
+  </children>
 </archimate:ArchimateDiagramModel>
